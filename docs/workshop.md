@@ -9,23 +9,23 @@ The purpose of the workshop is to give a general and hands-on introduction to Ra
 <!-- TOC -->
 
 - [1. Omnia Radix Workshop 1](#1-omnia-radix-workshop-1)
-    - [1.1. Part 1](#11-part-1)
-        - [1.1.1. Pre-requisites](#111-pre-requisites)
-        - [1.1.2. Getting started](#112-getting-started)
-        - [1.1.3. Exploring the Echo app](#113-exploring-the-echo-app)
-        - [1.1.4. Exploring the WWW app](#114-exploring-the-www-app)
-        - [1.1.5. Preparing for Radix](#115-preparing-for-radix)
-        - [1.1.6. Explore radixconfig.yaml](#116-explore-radixconfigyaml)
-        - [1.1.7. Creating the application on Radix](#117-creating-the-application-on-radix)
-        - [1.1.8. Using multiple branches - multiple environments](#118-using-multiple-branches---multiple-environments)
-        - [1.1.9. Monitoring & Metrics](#119-monitoring--metrics)
-    - [1.2. Typical questions](#12-typical-questions)
-    - [1.3. Where to get started, get help, log issues or feature requests](#13-where-to-get-started-get-help-log-issues-or-feature-requests)
-        - [1.3.1. Getting help](#131-getting-help)
-        - [1.3.2. Getting started](#132-getting-started)
-        - [1.3.3. Log issues & feature requests](#133-log-issues--feature-requests)
-    - [1.4. Part 2](#14-part-2)
-        - [1.4.1. Next steps](#141-next-steps)
+  - [1.1. Part 1](#11-part-1)
+    - [1.1.1. Pre-requisites](#111-pre-requisites)
+    - [1.1.2. Getting started](#112-getting-started)
+    - [1.1.3. Exploring the Echo app](#113-exploring-the-echo-app)
+    - [1.1.4. Exploring the WWW app](#114-exploring-the-www-app)
+    - [1.1.5. Preparing for Radix](#115-preparing-for-radix)
+    - [1.1.6. Explore radixconfig.yaml](#116-explore-radixconfigyaml)
+    - [1.1.7. Creating the application on Radix](#117-creating-the-application-on-radix)
+    - [1.1.8. Using multiple branches - multiple environments](#118-using-multiple-branches---multiple-environments)
+    - [1.1.9. Monitoring & Metrics](#119-monitoring--metrics)
+  - [1.2. Typical questions](#12-typical-questions)
+  - [1.3. Where to get started, get help, log issues or feature requests](#13-where-to-get-started-get-help-log-issues-or-feature-requests)
+    - [1.3.1. Getting help](#131-getting-help)
+    - [1.3.2. Getting started](#132-getting-started)
+    - [1.3.3. Log issues & feature requests](#133-log-issues--feature-requests)
+  - [1.4. Part 2](#14-part-2)
+    - [1.4.1. Next steps](#141-next-steps)
 
 <!-- /TOC -->
 
@@ -62,7 +62,7 @@ Remember that the Echo app needs to run somewhere to get proper response.
 - The Radix cluster we use for the workshop is available at https://console.radix.equinor.com/
 - Radix "getting started++" is available at https://www.radix.equinor.com/
 
-Important to know:
+Important to know:  
 
 1. The difference between ```platform user``` and ```application user```
 2. Important terminology: ```application```, ```environments```,```components```, and ```replicas```
